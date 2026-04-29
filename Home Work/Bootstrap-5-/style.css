@@ -1,0 +1,56 @@
+.bg-body{
+    background-color: #f0f2f5;
+}
+.first{
+    padding-left: 25%;
+}
+.text-blue{
+    color: #1877f2;
+    font-size: 55px;
+    font-weight: 700;
+}
+.text-black{
+    color: #1c1e21;
+    font-size: 27px;
+    line-height: 28px;
+}
+.card{
+    width: 26rem;
+}
+.btn-blue{
+    background-color: #1877f2;
+    color: white;
+}
+.pass{
+    color: #1877f2;
+    font-size: 13.5px;
+}
+.px-btn{
+    padding: 0 22%;
+}
+.card{
+    box-shadow: 0px 0px 12px 3px rgb(0, 0, 0, 0.2);
+}
+.form-control{
+    height: 52px;
+}
+::placeholder{
+    padding-left: 3px;
+}
+.btn-green{
+    background: #42b72a;
+    color: white;
+    padding: 12px 25px;
+}
+.container{
+    margin-top: 8%;
+}
+.last-txt{
+    font-size: 13.5px;
+    width: 26rem;
+}
+.last-txt span{
+    color: #1c1e21;
+    font-weight: 700;
+    font-size: 15px;
+}
